@@ -9,5 +9,6 @@ Jakub Warzyniak 159908
 uruchomienie:
 
 ``bash
+
 pip install -r requirements.txt
 python photography_demo.py
