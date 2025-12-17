@@ -1,0 +1,93 @@
+{
+  "feel_like_shooting": {
+    "text": "Do I feel like shooting today?",
+    "options": { "yes": "Yes", "no": "No" }
+  },
+
+  "photography_related": {
+    "text": "Do I want to do something photography related?",
+    "options": { "yes": "Yes", "no": "No" }
+  },
+
+  "mentally_active": {
+    "text": "Am I feeling mentally active today?",
+    "options": { "yes": "Yes", "no": "No" }
+  },
+
+  "shoot_myself": {
+    "text": "Do I want to photograph myself?",
+    "options": { "yes": "Yes", "no": "No" }
+  },
+
+  "someone_else": {
+    "text": "Do I want someone else to take my photo?",
+    "options": { "yes": "Yes", "no": "No" }
+  },
+
+  "confidence_issue": {
+    "text": "Is it because I lack confidence in having my picture taken?",
+    "options": { "yes": "Yes", "no": "No" }
+  },
+
+  "want_confidence": {
+    "text": "Do I want to become more confident?",
+    "options": { "yes": "Yes", "no": "No" }
+  },
+
+  "choose_where_or_what": {
+    "text": "What do I want to decide?",
+    "options": {
+      "where": "Where to shoot",
+      "what": "What to shoot"
+    }
+  },
+
+  "leave_home": {
+    "text": "Do I want to leave home?",
+    "options": { "yes": "Yes", "no": "No" }
+  },
+
+  "photograph_objects": {
+    "text": "Do I want to photograph objects?",
+    "options": { "yes": "Yes", "no": "No" }
+  },
+
+  "travel_close": {
+    "text": "Do I want to travel close to home?",
+    "options": { "yes": "Yes", "no": "No" }
+  },
+
+  "walking_distance": {
+    "text": "Do I want to stay within walking distance?",
+    "options": { "yes": "Yes", "no": "No" }
+  },
+
+  "overseas": {
+    "text": "Do I want to go overseas?",
+    "options": { "yes": "Yes", "no": "No" }
+  },
+
+  "inspiration_from_self": {
+    "text": "Do I want to find inspiration from myself?",
+    "options": { "yes": "Yes", "no": "No" }
+  },
+
+  "feeling_social": {
+    "text": "Am I feeling social today?",
+    "options": { "yes": "Yes", "no": "No" }
+  },
+
+  "challenge": {
+    "text": "Am I up for a creative challenge?",
+    "options": { "yes": "Yes", "no": "No" }
+  },
+
+  "topic_choice": {
+    "text": "Which topic do I want to explore?",
+    "options": {
+      "juxtaposition": "Juxtaposition",
+      "graphical": "Graphical elements",
+      "emotion": "Emotion"
+    }
+  }
+}
